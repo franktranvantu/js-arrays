@@ -1,1 +1,1 @@
-Learn how to add elements to an array, as well as return the number of elements inside an array.
+JavaScript provides the pop() method for removing elements from the end of an array, and shift() for removing elements from the beginning.
