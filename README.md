@@ -1,1 +1,1 @@
-JavaScript provides the pop() method for removing elements from the end of an array, and shift() for removing elements from the beginning.
+Learn the basics of the spread operator (...), a special syntax JavaScript provides to build, combine, and manipulate arrays quickly and more seamlessly.
