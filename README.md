@@ -1,1 +1,1 @@
-In JavaScript, an array is a "data structure" that provides a way to store and organize data.
+To access an element within an array, you use an "index" value, which is a number that indicates a position in the array.
