@@ -1,1 +1,1 @@
-To access an element within an array, you use an "index" value, which is a number that indicates a position in the array.
+Learn how to add elements to an array, as well as return the number of elements inside an array.
