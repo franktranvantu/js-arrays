@@ -1,1 +1,1 @@
-Learn the basics of the spread operator (...), a special syntax JavaScript provides to build, combine, and manipulate arrays quickly and more seamlessly.
+Use the for loop to iterate over an array of song names and display them on a web page.
