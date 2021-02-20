@@ -1,1 +1,0 @@
-Create a program that uses a multidimensional array to hold songs and artists, and then displays a playlist of each song, with the artist who recorded it and the duration of the song.
