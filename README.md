@@ -1,1 +1,1 @@
-Use the for loop to iterate over an array of song names and display them on a web page.
+Write a program using the join(), includes(), and indexOf() array methods you learned about earlier.
